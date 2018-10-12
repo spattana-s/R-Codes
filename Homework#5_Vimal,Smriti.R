@@ -1,10 +1,5 @@
 
-#  Course          : CS 513B
-#  First Name      : Smriti 
-#  Last Name       : Vimal
-#  Id              : 10430059
-#  purpose         : HW5
-
+# C5.0 classification
 
 #########################################################
 
@@ -13,7 +8,7 @@
 rm(list=ls())
 
 
-setwd('D:/Smriti MS/CS513/hw05')
+setwd('D:/SanjayPattanayak/C5.0')
 
 #load Data
 bcData<-read.csv('breast-cancer-wisconsin.data.csv',na.strings = '?')
